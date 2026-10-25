@@ -1,0 +1,8 @@
+url: https://github.com/LiarMTTT/TavernWeave/tree/main/host-adapters/dsh/plugin
+name: LiarMTTT/TavernWeave#plugin
+category: skill
+icon: https://raw.githubusercontent.com/LiarMTTT/TavernWeave/main/host-adapters/dsh/plugin/icon.png
+description:
+  en: 'Rolecard-engineering toolkit for SillyTavern: 23 bundled skills, a host front door, a selectable agent preset and a browser panel in one DeepSeek Harness plugin.'
+  zh: '闈㈠悜 SillyTavern 瑙掕壊鍗″伐绋嬬殑宸ュ叿鍖咃細23 涓妧鑳姐€丠ost Front Door銆佸彲閫?agent 棰勮鍜屾祻瑙堝櫒闈㈡澘锛屾墦鍖呮垚涓€涓?DSH 鎻掍欢銆?
+tarball: https://github.com/LiarMTTT/TavernWeave/releases/latest/download/tavernweave-dsh.tgz
